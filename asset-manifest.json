@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github-pages-create-react-app/static/css/main.f47eeae1.chunk.css",
-    "main.js": "/github-pages-create-react-app/static/js/main.37ecb79c.chunk.js",
-    "main.js.map": "/github-pages-create-react-app/static/js/main.37ecb79c.chunk.js.map",
-    "runtime-main.js": "/github-pages-create-react-app/static/js/runtime-main.f01a7e0d.js",
-    "runtime-main.js.map": "/github-pages-create-react-app/static/js/runtime-main.f01a7e0d.js.map",
-    "static/js/2.aa695558.chunk.js": "/github-pages-create-react-app/static/js/2.aa695558.chunk.js",
-    "static/js/2.aa695558.chunk.js.map": "/github-pages-create-react-app/static/js/2.aa695558.chunk.js.map",
-    "static/js/3.f8d3f409.chunk.js": "/github-pages-create-react-app/static/js/3.f8d3f409.chunk.js",
-    "static/js/3.f8d3f409.chunk.js.map": "/github-pages-create-react-app/static/js/3.f8d3f409.chunk.js.map",
-    "index.html": "/github-pages-create-react-app/index.html",
-    "static/css/main.f47eeae1.chunk.css.map": "/github-pages-create-react-app/static/css/main.f47eeae1.chunk.css.map",
-    "static/js/2.aa695558.chunk.js.LICENSE.txt": "/github-pages-create-react-app/static/js/2.aa695558.chunk.js.LICENSE.txt"
+    "main.css": "/react-shop-manager/static/css/main.2cd6fbc7.chunk.css",
+    "main.js": "/react-shop-manager/static/js/main.3f37ec46.chunk.js",
+    "main.js.map": "/react-shop-manager/static/js/main.3f37ec46.chunk.js.map",
+    "runtime-main.js": "/react-shop-manager/static/js/runtime-main.c8d27e01.js",
+    "runtime-main.js.map": "/react-shop-manager/static/js/runtime-main.c8d27e01.js.map",
+    "static/js/2.e07a8285.chunk.js": "/react-shop-manager/static/js/2.e07a8285.chunk.js",
+    "static/js/2.e07a8285.chunk.js.map": "/react-shop-manager/static/js/2.e07a8285.chunk.js.map",
+    "static/js/3.f8d3f409.chunk.js": "/react-shop-manager/static/js/3.f8d3f409.chunk.js",
+    "static/js/3.f8d3f409.chunk.js.map": "/react-shop-manager/static/js/3.f8d3f409.chunk.js.map",
+    "index.html": "/react-shop-manager/index.html",
+    "static/css/main.2cd6fbc7.chunk.css.map": "/react-shop-manager/static/css/main.2cd6fbc7.chunk.css.map",
+    "static/js/2.e07a8285.chunk.js.LICENSE.txt": "/react-shop-manager/static/js/2.e07a8285.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f01a7e0d.js",
-    "static/js/2.aa695558.chunk.js",
-    "static/css/main.f47eeae1.chunk.css",
-    "static/js/main.37ecb79c.chunk.js"
+    "static/js/runtime-main.c8d27e01.js",
+    "static/js/2.e07a8285.chunk.js",
+    "static/css/main.2cd6fbc7.chunk.css",
+    "static/js/main.3f37ec46.chunk.js"
   ]
 }
